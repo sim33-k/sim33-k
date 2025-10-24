@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/simaak" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/SW33TSTUFF" target="_blank">
+<a href="https://github.com/sim33-k" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/sim33_k/" target="_blank">
@@ -41,11 +41,11 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SW33TSTUFF&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sim33-k&theme=moonlight)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SW33TSTUFF&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SW33TSTUFF&theme=moonlight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sim33-k&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sim33-k&theme=moonlight&utcOffset=8)
 <!--
 <a href="http://s11.flagcounter.com/more/AJpk"><img src="https://s11.flagcounter.com/map/AJpk/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
@@ -58,8 +58,8 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=SW33TSTUFF&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SW33TSTUFF&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=sim33-k&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sim33-k&theme=radical&hide_border=false)
 
 
  **I hope you enjoyed your stay** <br>
